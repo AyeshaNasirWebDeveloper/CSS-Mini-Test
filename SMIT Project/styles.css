@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.third{
+    background-color: black !important;
+}
+
+.content{
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.laptop{
+    background-color: rgb(0, 0, 0) !important;
+    color: azure !important;
+    justify-content: center !important;
+    align-items: center !important;
+
+}
+
+.third{
+    border-radius: 20px !important; 
+}
+
+.second{
+    background-color: rgb(39, 38, 38);
+    height: 100vh;
+    width: 100%;
+}
+/* .main{
+    background-image: url("./IMAGES/banner.png") !important;
+    height: 100vh;
+    background-size: cover;
+} */
+
+/* body{
+    background-image: url();
+}
+
+.bar{
+    background-color: yellowgreen !important;
+}
+
+.image{
+    background-color: aqua imporat !important;
+}
+
+.sec{
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+h1{
+    font-weight: 1rem !important;
+    font-size: xx-small;
+} */
